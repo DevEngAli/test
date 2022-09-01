@@ -1,0 +1,5 @@
+to make clone for repo in your pc
+after making repo in git hub page we must copy the url of this repo
+that nd with .git after that opning cmder and go to file that we need it
+and writ this :  [git clone +url of repo]
+
